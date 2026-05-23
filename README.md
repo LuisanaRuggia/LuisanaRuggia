@@ -84,7 +84,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuisanaRuggia&theme=transparent" alt="Most Used Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuisanaRuggia&theme=monokai" alt="Most Used Languages"/>
 </p>
 
 ---
