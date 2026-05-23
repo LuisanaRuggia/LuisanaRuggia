@@ -73,15 +73,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuisanaRuggia&theme=transparent" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuisanaRuggia&theme=transparent" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuisanaRuggia&bg_color=0A0A0F&color=FAFAFA&line=FB923C&point=FB923C&area=true&area_color=FB923C&title_color=FB923C&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LuisanaRuggia&theme=transparent" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=LuisanaRuggia&background=0A0A0F&border=27272F&stroke=27272F&ring=FB923C&fire=FB923C&currStreakNum=FAFAFA&sideNums=FAFAFA&currStreakLabel=FB923C&sideLabels=A1A1AA&dates=A1A1AA" alt="GitHub Streak"/>
 </p>
 
 ---
