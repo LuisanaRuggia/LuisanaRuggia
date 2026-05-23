@@ -76,8 +76,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.demolab.com/api?username=LuisanaRuggia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.demolab.com/api/top-langs/?username=LuisanaRuggia&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuisanaRuggia&theme=tokyonight" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuisanaRuggia&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 <p align="center">
