@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/luisana-j-guti%C3%A9rrez-ruggia-128083256/">
+  <a href="https://www.linkedin.com/in/luisana-j-guti%C3%A9rrez-ruggia-128083256/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://luisanaruggia.github.io/portfolio/">
+  <a href="https://luisanaruggia.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-2C2C2C?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:ruggialuisana@gmail.com">
+  <a href="mailto:ruggialuisana@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -75,8 +75,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisanaRuggia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisanaRuggia&layout=compact&theme=tokyonight&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.demolab.com/api?username=LuisanaRuggia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.demolab.com/api/top-langs/?username=LuisanaRuggia&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
 </p>
 
 <p align="center">
