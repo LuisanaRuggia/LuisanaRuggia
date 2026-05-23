@@ -76,11 +76,11 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuisanaRuggia&bg_color=0A0A0F&color=FAFAFA&line=FB923C&point=FB923C&area=true&area_color=FB923C&title_color=FB923C&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuisanaRuggia&bg_color=00000000&color=FAFAFA&line=FB923C&point=FB923C&area=true&area_color=FB923C&title_color=FB923C&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LuisanaRuggia&background=0A0A0F&border=27272F&stroke=27272F&ring=FB923C&fire=FB923C&currStreakNum=FAFAFA&sideNums=FAFAFA&currStreakLabel=FB923C&sideLabels=A1A1AA&dates=A1A1AA" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=LuisanaRuggia&background=00000000&border=27272F&stroke=27272F&ring=FB923C&fire=FB923C&currStreakNum=FAFAFA&sideNums=FAFAFA&currStreakLabel=FB923C&sideLabels=A1A1AA&dates=A1A1AA&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
