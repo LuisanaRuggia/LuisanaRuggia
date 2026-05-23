@@ -83,10 +83,6 @@
   <img src="https://streak-stats.demolab.com?user=LuisanaRuggia&background=00000000&border=27272F&stroke=27272F&ring=FB923C&fire=FB923C&currStreakNum=FAFAFA&sideNums=FAFAFA&currStreakLabel=FB923C&sideLabels=A1A1AA&dates=A1A1AA&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuisanaRuggia&theme=monokai" alt="Most Used Languages"/>
-</p>
-
 ---
 
 <p align="center">
