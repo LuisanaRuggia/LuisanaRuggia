@@ -76,12 +76,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuisanaRuggia&theme=tokyonight" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuisanaRuggia&theme=tokyonight" alt="Top Languages"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuisanaRuggia&theme=transparent" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuisanaRuggia&theme=transparent" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LuisanaRuggia&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=LuisanaRuggia&theme=transparent" alt="GitHub Streak"/>
 </p>
 
 ---
