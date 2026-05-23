@@ -1,8 +1,8 @@
-<h1 align="center">¡Hola! Soy Luisana Ruggia 👋</h1>
+<h1 align="center">Hi! I'm Luisana J. Gutiérrez Ruggia 👋</h1>
 
 <p align="center">
-  <em>Estudiante de Ingeniería en Ciencia de Datos</em><br/>
-  📊 Análisis de Datos · 🤖 Ciencia de Datos · ⚙️ Ingeniería de Datos
+  <em>Data Science Engineering Student</em><br/>
+  📊 Data Analysis · 🤖 Data Science · ⚙️ Data Engineering
 </p>
 
 <p align="center">
@@ -19,34 +19,36 @@
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 About me
 
-- 🎓 Cursando **Ingeniería en Ciencia de Datos**
-- 🔭 Trabajando en proyectos de **análisis, modelado y pipelines de datos**
-- 🌱 Aprendiendo continuamente sobre **MLOps, big data y arquitecturas modernas de datos**
-- 💬 Pregúntame sobre **Python, SQL, visualización y orquestación de datos**
-- 📫 Contáctame en: **ruggialuisana@gmail.com**
+- 🎓 Studying **Data Science Engineering**
+- 🔭 Working on projects involving **analytics, modeling and data pipelines**
+- 🌱 Continuously learning about **MLOps, big data and modern data architectures**
+- 💬 Ask me about **Python, R, SQL, visualization and data orchestration**
+- 📫 Reach me at: **ruggialuisana@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
-#### Lenguajes y análisis
+#### Languages & analysis
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
-#### Bases de datos
+#### Databases
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black"/>
 </p>
 
-#### Ingeniería y orquestación de datos
+#### Data engineering & orchestration
 <p>
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
@@ -54,15 +56,14 @@
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 </p>
 
-#### Visualización y BI
+#### Visualization & BI
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache%20Superset-20A6C9?style=for-the-badge&logo=apachesuperset&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-#### DevOps y herramientas
+#### DevOps & tools
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -71,7 +72,7 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisanaRuggia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -79,11 +80,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisanaRuggia&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=LuisanaRuggia&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
 
 <p align="center">
-  <em>"Los datos son el nuevo lenguaje del mundo. Yo aprendo a traducirlos."</em>
+  <em>"Data is the new language of the world. I'm learning to translate it."</em>
 </p>
